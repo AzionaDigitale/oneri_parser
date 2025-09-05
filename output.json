@@ -1,0 +1,144 @@
+{
+    "Abitazioni di residenza anagrafica": [
+        {
+            "descrizione": "EN €/kWh",
+            "valori": {
+                "PE": {
+                    "F0": 0.13463,
+                    "F1": 0.14352,
+                    "F23": 0.13002
+                },
+                "Materia energia": 0.16412,
+                "PD": 0.02393,
+                "PCV": "- ",
+                "DISPbt": "- ",
+                "PPE": 0.00556,
+                "σ2": "- ",
+                "σ3": 0.01189,
+                "UC3": 0.00156,
+                "UC6": 7e-05,
+                "Trasporto e gestione del contatore": 0.01352,
+                "ASOS": 0.02968,
+                "ARIM": 0.00164,
+                "Oneri di sistema": 0.03132
+            }
+        },
+        {
+            "descrizione": "FIX €/Y",
+            "valori": {
+                "PE": {
+                    "F0": "- ",
+                    "F1": "- ",
+                    "F23": "- "
+                },
+                "Materia energia": 44.7311,
+                "PD": "- ",
+                "PCV": 43.5,
+                "DISPbt": 1.2311,
+                "PPE": "- ",
+                "σ2": "- ",
+                "σ3": "- ",
+                "UC3": "- ",
+                "UC6": "- ",
+                "Trasporto e gestione del contatore": 22.8,
+                "ASOS": "- ",
+                "ARIM": "- ",
+                "Oneri di sistema": "- "
+            }
+        },
+        {
+            "descrizione": "POT €/kW/Y",
+            "valori": {
+                "PE": {
+                    "F0": "- ",
+                    "F1": "- ",
+                    "F23": "- "
+                },
+                "Materia energia": "- ",
+                "PD": "- ",
+                "PCV": "- ",
+                "DISPbt": "- ",
+                "PPE": "- ",
+                "σ2": 25.08,
+                "σ3": "- ",
+                "UC3": "- ",
+                "UC6": 0.1988,
+                "Trasporto e gestione del contatore": 25.2788,
+                "ASOS": "- ",
+                "ARIM": "- ",
+                "Oneri di sistema": "- "
+            }
+        }
+    ],
+    "Abitazioni diverse dalla residenza anagrafica": [
+        {
+            "descrizione": "EN €/kWh",
+            "valori": {
+                "PE": {
+                    "F0": 0.13463,
+                    "F1": 0.14352,
+                    "F23": 0.13002
+                },
+                "Materia energia": 0.16412,
+                "PD": 0.02393,
+                "PCV": "- ",
+                "DISPbt": "- ",
+                "PPE": 0.00556,
+                "σ2": "- ",
+                "σ3": 0.01189,
+                "UC3": 0.00156,
+                "UC6": 7e-05,
+                "Trasporto e gestione del contatore": 0.01352,
+                "ASOS": 0.02968,
+                "ARIM": 0.00164,
+                "Oneri di sistema": 0.03132
+            }
+        },
+        {
+            "descrizione": "FIX €/Y",
+            "valori": {
+                "PE": {
+                    "F0": "- ",
+                    "F1": "- ",
+                    "F23": "- "
+                },
+                "Materia energia": 44.7311,
+                "PD": "- ",
+                "PCV": 43.5,
+                "DISPbt": 1.2311,
+                "PPE": "- ",
+                "σ2": "- ",
+                "σ3": "- ",
+                "UC3": "- ",
+                "UC6": "- ",
+                "Trasporto e gestione del contatore": 22.8,
+                "ASOS": 90.642,
+                "ARIM": 0,
+                "Oneri di sistema": 90.642
+            }
+        },
+        {
+            "descrizione": "POT €/kW/Y",
+            "valori": {
+                "PE": {
+                    "F0": "- ",
+                    "F1": "- ",
+                    "F23": "- "
+                },
+                "Materia energia": "- ",
+                "PD": "- ",
+                "PCV": "- ",
+                "DISPbt": "- ",
+                "PPE": "- ",
+                "σ2": 25.08,
+                "σ3": "- ",
+                "UC3": "- ",
+                "UC6": 0.1988,
+                "Trasporto e gestione del contatore": 25.2788,
+                "ASOS": "- ",
+                "ARIM": "- ",
+                "Oneri di sistema": "- "
+            }
+        }
+    ]
+}
