@@ -9,3 +9,30 @@ We accept no responsibility for any eventuality arising from use other than pure
 Pull requests and contributions are welcome. In this case, please open an Issues first.
 
 Script tested last at 05 Sept 2025
+
+## Sample data
+ "Abitazioni di residenza anagrafica": [
+        {
+            "descrizione": "EN €/kWh",
+            "valori": {
+                "PE": {
+                    "F0": 0.13463,
+                    "F1": 0.14352,
+                    "F23": 0.13002
+                },
+                "Materia energia": 0.16412,
+                "PD": 0.02393,
+                "PCV": "- ",
+                "DISPbt": "- ",
+                "PPE": 0.00556,
+                "σ2": "- ",
+                "σ3": 0.01189,
+                "UC3": 0.00156,
+                "UC6": 7e-05,
+                "Trasporto e gestione del contatore": 0.01352,
+                "ASOS": 0.02968,
+                "ARIM": 0.00164,
+                "Oneri di sistema": 0.03132
+            }
+
+
