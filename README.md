@@ -11,37 +11,38 @@ Pull requests and contributions are welcome. In this case, please open an Issues
 Script tested last at 05 Sept 2025
 
 ## Sample data
-{
-  "Abitazioni di residenza anagrafica": [
-    {
-      "descrizione": "EN €/kWh",
-      "valori": {
-        "PE": {
-          "F0": 0.12032,
-          "F1": 0.12348,
-          "F23": 0.11874
-        },
-        "Materia energia": {
-          "Fascia unica": 0.14256,
-          "F1": 0.14572,
-          "F23": 0.14098
-        },
-        "PD": 0.01779,
-        "PCV": null,
-        "DISPbt": null,
-        "PPE": 0.00445,
-        "σ1": null,
-        "σ2": null,
-        "σ3": 0.01189,
-        "UC3": 0.00156,
-        "UC6": 7e-05,
-        "Trasporto e gestione del contatore": 0.01352,
-        "ASOS": 0.02968,
-        "ARIM": 0.00164,
-        "Oneri di sistema": 0.03132
-      }
-    }
-  ]
-}>
+## Abitazioni di residenza anagrafica — EN €/kWh
+
+### PE
+| Fascia | Valore |
+|--------|--------|
+| F0     | 0.12032 |
+| F1     | 0.12348 |
+| F23    | 0.11874 |
+
+### Materia energia
+| Fascia        | Valore |
+|---------------|--------|
+| Fascia unica  | 0.14256 |
+| F1            | 0.14572 |
+| F23           | 0.14098 |
+
+### Altri valori
+| Voce                           | Valore    |
+|--------------------------------|-----------|
+| PD                             | 0.01779   |
+| PCV                            | —         |
+| DISPbt                         | —         |
+| PPE                            | 0.00445   |
+| σ1                             | —         |
+| σ2                             | —         |
+| σ3                             | 0.01189   |
+| UC3                            | 0.00156   |
+| UC6                            | 0.00007   |
+| Trasporto e gestione contatore | 0.01352   |
+| ASOS                           | 0.02968   |
+| ARIM                           | 0.00164   |
+| Oneri di sistema               | 0.03132   |
+
 
 
