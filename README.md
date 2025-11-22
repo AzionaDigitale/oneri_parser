@@ -8,7 +8,7 @@ We accept no responsibility for any eventuality arising from use other than pure
 
 Pull requests and contributions are welcome. In this case, please open an Issues first.
 
-Script tested last at 05 Sept 2025
+Script tested last at 22 Nov 2025
 
 ## Sample data
 ## Abitazioni di residenza anagrafica — EN €/kWh
